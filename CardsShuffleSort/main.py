@@ -7,7 +7,7 @@ enums = []
 print("")
 print("The original deck is: ")
 for card in Cards:
-    print(card, "\n")
+    print(card)
 
 
 for crd in Cards:              #to get a list of enums
